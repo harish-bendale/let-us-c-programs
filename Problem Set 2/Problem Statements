@@ -1,0 +1,9 @@
+(a) If a five-digit number is input through the keyboard, write a program to calculate the sum of its digits. (Hint: Use the modulus operator %)
+(b) Write a program to receive Cartesian co-ordinates (x, y) of a point and convert them into polar co-ordinates (r, @).
+Hint: r= sqrt (x+y?) and @ =tan(y /x)
+(c) Write a program to receive values of latitude (L1, L2) and longitude (G1, G2), in degrees, of two places on the earth and output the distance (D) between them in nautical miles. The formula for distance in nautical miles is:
+D = 3963 cos 1 ( sin L1 sin L2 + cos L1 cos L2 * cos ( G2 - G1 ) )
+(d) Wind-chill factor is the felt air temperature on exposed skin due to wind. The wind-chill temperature is always lower than the air temperature, and is calculated as per the following formula:
+wcf = 35.74 + 0.6215t + (0.4275t - 35.75 ) * y0.16
+where t is temperature and v is wind velocity. Write a program to receive values of t and v and calculate wind-chill factor (wcf).
+(e) If value of an angle is input through the keyboard, write a program to print all its Trigonometric ratios.
